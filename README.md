@@ -1,5 +1,5 @@
-# Its a simple snake moving game
+# It is a simple snake & ladder
 
-*description*
+*Description*
 
-My first trial of snak ledder. after this trial, the game was finally able to move the snake in html interface.
+My first trial of snake and ladder. after this trial, the game was finally able to move the snake in html interface.
